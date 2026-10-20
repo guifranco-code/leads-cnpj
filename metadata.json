@@ -1,0 +1,6 @@
+{
+  "name": "Radar CNPJ & Raio no Google Maps",
+  "description": "Busca inteligente de empresas por CNPJ com consulta pública aberta, visualização geográfica em raio interativo no Google Maps e persistência em Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
